@@ -1,0 +1,2 @@
+# iCalendar files must use CRLF line breaks. See https://datatracker.ietf.org/doc/html/rfc5545#section-3.1
+*.ics text eol=crlf
